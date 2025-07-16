@@ -33,10 +33,7 @@ Un tracker de animes completo que permite a los usuarios organizar sus animes en
 - **Enfoque**: Desde el diseño hasta la implementación y publicidad  
 - **Especialidad**: Desarrollo web full stack
 
-### Conectemos
-
-- **LinkedIn**: [linkedin.com/in/hetzz](https://linkedin.com/in/hetzz/)
-- **Portfolio**: [hetzz.com](https://hetzz.com/)
-- **Email**: [contacto@hetzz.com](mailto:contacto@hetzz.com)
+### Social
+<a href="https://www.linkedin.com/in/hetzz/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ---
