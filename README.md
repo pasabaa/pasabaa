@@ -1,16 +1,42 @@
-### Hi there 👋
+# Hola! Soy Pablo Sánchez
 
-<!--
-**pasabaa/pasabaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Desarrollador Web Full Stack
 
-Here are some ideas to get you started:
+Soy un desarrollador web con más de 2 años de experiencia creando proyectos desde cero. Me especializo en desarrollo full stack y me encanta llevar ideas desde el concepto hasta la implementación completa.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stack Tecnológico
+
+```javascript
+const pabloStack = {
+  frontend: ['Next.js', 'React', 'Tailwind CSS'],
+  backend: ['Supabase'],
+  deployment: ['Vercel'],
+  approach: 'Full Stack Development'
+}
+```
+
+### Proyectos Destacados
+
+#### **[Mundo Mítico](https://mundomitico.com)**
+Una plataforma donde la comunidad comparte historias paranormales, sobrenaturales y de terror. Combina características de foro y red social para crear un espacio único para los amantes de lo inexplicable.
+
+**Stack**: Next.js, React, Supabase, Tailwind CSS
+
+#### **[Aniflow](https://aniflow.net)**
+Un tracker de animes completo que permite a los usuarios organizar sus animes en diferentes listas personalizadas (favoritos, viendo, plan para ver, etc.).
+
+**Stack**: Next.js, React, Supabase, Tailwind CSS
+
+### Sobre mí
+
+- **Experiencia**: +2 años desarrollando proyectos personales end-to-end
+- **Enfoque**: Desde el diseño hasta la implementación y publicidad  
+- **Especialidad**: Desarrollo web full stack
+
+### Conectemos
+
+- **LinkedIn**: [linkedin.com/in/hetzz](https://linkedin.com/in/hetzz/)
+- **Portfolio**: [hetzz.com](https://hetzz.com/)
+- **Email**: [contacto@hetzz.com](mailto:contacto@hetzz.com)
+
+---
