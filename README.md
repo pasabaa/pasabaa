@@ -2,7 +2,7 @@
 
 ## Desarrollador Web Full Stack
 
-Soy un desarrollador web con más de 2 años de experiencia creando proyectos desde cero. Me especializo en desarrollo full stack y me encanta llevar ideas desde el concepto hasta la implementación completa.
+Soy un desarrollador web con más de 2 años de experiencia creando proyectos web. Me especializo en desarrollo full stack y me encanta llevar ideas desde el concepto hasta la implementación completa.
 
 ### Stack Tecnológico
 
