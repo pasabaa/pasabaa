@@ -1,4 +1,4 @@
-# Hola, soy Pablo Sánchez
+# Hola
 
 ## Desarrollador Web Full Stack
 
