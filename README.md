@@ -4,16 +4,9 @@
 
 Soy un desarrollador web con más de 2 años de experiencia creando proyectos web. Me especializo en desarrollo full stack y me encanta llevar ideas desde el concepto hasta la implementación completa.
 
-### Stack Tecnológico
-
-```javascript
-const pabloStack = {
-  frontend: ['Next.js', 'React', 'Tailwind CSS'],
-  backend: ['Supabase'],
-  deployment: ['Vercel'],
-  approach: 'Full Stack Development'
-}
-```
+### Stack
+Frontend: Next.js, Tailwind.
+Backend: Supabase.
 
 ### Proyectos Destacados
 
