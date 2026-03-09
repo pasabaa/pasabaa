@@ -5,8 +5,8 @@
 Soy un desarrollador web con más de 2 años de experiencia creando proyectos web. Me especializo en desarrollo full stack y me encanta llevar ideas desde el concepto hasta la implementación completa.
 
 ### Stack
-Frontend: Next.js, Tailwind.
-Backend: Supabase.
+- **Frontend**: Next.js, Tailwind.
+- **Backend**: Supabase.
 
 ### Proyectos Destacados
 
