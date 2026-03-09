@@ -10,7 +10,7 @@ Backend: Supabase.
 
 ### Proyectos Destacados
 
-#### **[Mundo Mítico](https://mundomitico.com)**
+#### **[Mundo Mítico](https:/pablos.dev)**
 Una plataforma donde la comunidad comparte historias paranormales, sobrenaturales y de terror. Combina características de foro y red social para crear un espacio único para los amantes de lo inexplicable.
 
 **Stack**: Next.js, React, Supabase, Tailwind CSS
