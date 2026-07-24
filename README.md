@@ -6,13 +6,13 @@ Soy un desarrollador web con más de 2 años de experiencia creando proyectos we
 
 ### Proyectos Destacados
 
-#### **[Mundo Mítico](https://pablos.dev)**
-Una plataforma donde la comunidad comparte historias paranormales, sobrenaturales y de terror. Combina características de foro y red social para crear un espacio único para los amantes de lo inexplicable.
+#### **[Aniflow](https://aniflow.net)**
+Un tracker de animes completo que permite a los usuarios organizar sus animes en diferentes listas personalizadas (favoritos, viendo, plan para ver, etc.).
 
 **Stack**: Next.js, React, Supabase, Tailwind CSS
 
-#### **[Aniflow](https://aniflow.net)**
-Un tracker de animes completo que permite a los usuarios organizar sus animes en diferentes listas personalizadas (favoritos, viendo, plan para ver, etc.).
+#### **[Mundo Mítico](https://pablos.dev)**
+Una plataforma donde la comunidad comparte historias paranormales, sobrenaturales y de terror. Combina características de foro y red social para crear un espacio único para los amantes de lo inexplicable.
 
 **Stack**: Next.js, React, Supabase, Tailwind CSS
 
